@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @RoyWillems137
-- 👀 I’m interested in coding in Visual Studio Code
-- 🌱 I’m currently learning IT system and devices
+# 👋 Hallo, ik ben Roy
 
-<!---
-RoyWillems137/RoyWillems137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Student | 💻 Expert IT Sytem & Devices | 🕹️ Game hosting enthousiast  | 🎮 FiveM Development <br>
+🌐 Eigenaar van [BlueCloudHosting](https://bluecloudhosting.nl) – betaalbare game servers voor iedereen
+
+## 🚀 Mijn skills
+- ⚡ HTML, CSS (Tailwind, Bootstrap), JavaScript
+- ⚙️ PHP, Lua, Laravel, Node.js
+- 🐳 Docker, Pterodactyl, Linux (Ubuntu, Debian)
+- ☁️ Cloudflare, DirectAdmin
+
+## 🛠️ Projecten
+- 🌐 [BlueCloudHosting](https://bluecloudhosting.nl) – hostingbedrijf voor gameservers  
+  > Minecraft-, FiveM- en bot-hosting met Pterodactyl, Discord-koppelingen, automatische installatie en meer.
+
+- 🔑 [JouwGameTegoed](https://jouwgametegoed.nl) – verkoopplatform voor game keys via Stripe + webinterface
+
+## 📈 GitHub Statistieken
+
+![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roywillems137&show_icons=true&theme=algolia&locale=nl)
+
+## 📫 Contact
+- 📧 Mail: roywillems22@gmail.com
+- 💬 Discord: RoyWillems#3146
+
+---
+
+> 💡 Altijd bezig met nieuwe tools voor gamers en developers.
